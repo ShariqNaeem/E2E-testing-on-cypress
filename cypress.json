@@ -1,0 +1,13 @@
+{   
+    "chromeWebSecurity": false,
+    "failOnStatusCode" : false,
+    "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+    "reporterOptions": {
+        "overwrite": false,
+        "html": false,
+        "json": true
+    },
+    "viewportWidth": 1500,
+    "viewportHeight": 900,
+    "baseUrl": "http://opencart.abstracta.us"
+}
